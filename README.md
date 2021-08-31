@@ -9,5 +9,5 @@ Open-source model rocket and dart templates for research. The following models a
 
 Version History:
 
-30 Aug 2021
+30 Aug 2021:
 Release with initial 3 models. 
