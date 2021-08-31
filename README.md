@@ -5,5 +5,6 @@ Open-source model rocket and dart templates for research. The following models a
 -R1: Line-launcher template able to drag a net or carry a utility line. 
 
 Version History:
+
 30 Aug 2021
 Release with initial 3 models. 
