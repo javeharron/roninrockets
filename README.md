@@ -9,10 +9,14 @@ Open-source model rocket and dart templates for research. The following models a
 
 -J1: Narrowed nozzle template for greater reliability. 
 
+-L1: Basic rocket with de Laval nozzle added. 
+
 -R1: Line-launcher template able to drag a net or carry a utility line. 
 
 
 Version History:
+
+7 Sept 2021: Released L1 template.
 
 5 Sept 2021: Released J1 template. 
 
