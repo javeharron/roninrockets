@@ -19,6 +19,7 @@ Open-source model rocket and dart templates for research. The following models a
 
 
 Version History:
+
 5 Nov 2021: Added Series 6 templates. 
 
 2 Oct 2021: Released LM and LR templates.
