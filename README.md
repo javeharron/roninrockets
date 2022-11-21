@@ -17,8 +17,12 @@ Open-source model rocket and dart templates for research. The following models a
 
 -R1: Line-launcher template able to drag a net or carry a utility line. 
 
+-Q1: Skysweeper in first line.
+
 
 Version History:
+
+21 Nov 2021: Added Q1 template.
 
 25 Nov 2021: Added 'ch' and 'p5' series of modules. 
 
